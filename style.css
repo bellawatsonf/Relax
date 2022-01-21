@@ -1,0 +1,67 @@
+.navbar{
+    width: 100%;
+    top:0;
+    background: rgb(15, 9, 9);
+
+}
+
+.navbar-brand h3{
+    font-size: 50px;
+    color:whitesmoke;
+    font-family:fantasy;
+}
+
+.body-container{
+    height: 100vh;
+    width: 100%;
+}
+.sidebar{
+    height: 100%;
+    background: rgb(15, 9, 9);
+    width: 13%;
+    position: absolute;
+    color:whitesmoke;
+}
+
+.sidebar-link{
+    padding-top:20px;
+}
+.sidebar-link p {
+    font-size:18px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sidebar-link li{
+    padding-bottom:30px;
+    list-style: none;
+    font-size:20px;
+}
+.icon{
+    width:10%;
+}
+
+.sidebar-link1 li{
+    padding-top:30px;
+    list-style: none;
+    font-size:20px;
+}
+.icon-friend{
+    width:10%;
+}
+.content{
+    width: 87%;
+    background: rgb(51, 49, 47);
+    height: 100%;
+    float: right;
+    padding-top: 40px;
+}
+
+.field{
+    width:90%;
+    background-color: rebeccapurple;
+    margin:auto;
+    display: block;
+    height: 100%;
+    margin-bottom: 10px;
+}
